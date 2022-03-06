@@ -1,0 +1,3 @@
+程度副词/否定词/停用词/BosonNLP_sentiment_score.txt: 均为放在本目录下服务于BosonNLP方法的情感字典
+
+
